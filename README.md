@@ -14,14 +14,14 @@ The employee data tables showed:
 
 -	Employees retiring:
 -	29,000 senior engineers, 28,000 senior staff, 14,000 engineers, 12,000 staff, 4,500 technique leaders, 1,800 assistant engineers, and 2 managers
-![Retiring Employees Based on Title](/retiring_titles.png)
+![Retiring Employees Based on Title](/retiring_titles.PNG)
 
 -	There are 1,500 employees that are eligible for a potential mentorship program.
 
 -	Employees eligible for mentoring:
 -	548 senior staff, 481 engineers, 193 senior engineers, 176 staff, 77 technique leader, 74 assistant engineers
 
-![Employees Eligible for Mentoring](/mentor_titles.png)
+![Employees Eligible for Mentoring](/mentor_titles.PNG)
 
 ## Challenge Summary
 
