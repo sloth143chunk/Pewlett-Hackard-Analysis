@@ -48,3 +48,19 @@ ORDER BY e.emp_no;
 
 SELECT COUNT (me.emp_no)
 FROM mentor_eligibility as me;
+
+SELECT * FROM mentor_eligibility;
+SELECT * FROM retiring_titles;
+SELECT * FROM unique_titles;
+
+SELECT COUNT (emp_no)
+FROM unique_titles;
+
+SELECT COUNT (emp_no)
+FROM mentor_eligibility;
+
+SELECT COUNT(me.emp_no), me.title
+-- INTO mentor_titles
+FROM mentor_eligibility as me
+GROUP BY me.title
+ORDER BY me.count DESC;
