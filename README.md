@@ -1,12 +1,12 @@
 # Pewlett_Hackard Analysis
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this analysis was to provide Pewlett-Hackard with:
 -	A summary that determines the number of retiring employees per title
 -	To identify employees who are eligible to participate in a mentorship program
 
-## Challenge Results
+## Results
 
 The employee data tables showed:
 
@@ -24,7 +24,7 @@ The employee data tables showed:
 
 ![Employees Eligible for Mentoring](/mentor_titles.PNG)
 
-## Challenge Summary
+## Summary
 
 -	Hewlett-Packard will face upwards of 90,000 employees approaching retirement age, leaving those roles open in the wake of a “silver tsunami”. Reference “Retiring Employees…” png.
 
